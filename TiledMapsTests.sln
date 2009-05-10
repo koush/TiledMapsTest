@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiledMaps", "TiledMaps\TiledMaps.csproj", "{A1EF995F-A7F5-4F92-A9C1-23DD535EB5B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiledMapsTestHarness", "TiledMapsTestHarness\TiledMapsTestHarness.csproj", "{C88F0D6F-32F6-420B-8E55-59D518FEE262}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WMTiledMapsTestHarness", "WMTiledMapsTestHarness\WMTiledMapsTestHarness.csproj", "{874825B4-195E-4421-A2AB-C6B2C058A802}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://koushik-tfs:8080/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TiledMaps\\TiledMaps.csproj
+		SccProjectName1 = TiledMaps
+		SccLocalPath1 = TiledMaps
+		SccProjectUniqueName2 = TiledMapsTestHarness\\TiledMapsTestHarness.csproj
+		SccProjectName2 = TiledMapsTestHarness
+		SccLocalPath2 = TiledMapsTestHarness
+		SccProjectUniqueName3 = WMTiledMapsTestHarness\\WMTiledMapsTestHarness.csproj
+		SccProjectName3 = WMTiledMapsTestHarness
+		SccLocalPath3 = WMTiledMapsTestHarness
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1EF995F-A7F5-4F92-A9C1-23DD535EB5B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1EF995F-A7F5-4F92-A9C1-23DD535EB5B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1EF995F-A7F5-4F92-A9C1-23DD535EB5B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1EF995F-A7F5-4F92-A9C1-23DD535EB5B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C88F0D6F-32F6-420B-8E55-59D518FEE262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C88F0D6F-32F6-420B-8E55-59D518FEE262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C88F0D6F-32F6-420B-8E55-59D518FEE262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C88F0D6F-32F6-420B-8E55-59D518FEE262}.Release|Any CPU.Build.0 = Release|Any CPU
+		{874825B4-195E-4421-A2AB-C6B2C058A802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874825B4-195E-4421-A2AB-C6B2C058A802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874825B4-195E-4421-A2AB-C6B2C058A802}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{874825B4-195E-4421-A2AB-C6B2C058A802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874825B4-195E-4421-A2AB-C6B2C058A802}.Release|Any CPU.Build.0 = Release|Any CPU
+		{874825B4-195E-4421-A2AB-C6B2C058A802}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
