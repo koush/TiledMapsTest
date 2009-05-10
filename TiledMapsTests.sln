@@ -8,21 +8,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WMTiledMapsTestHarness", "WMTiledMapsTestHarness\WMTiledMapsTestHarness.csproj", "{874825B4-195E-4421-A2AB-C6B2C058A802}"
 EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 4
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = http://koushik-tfs:8080/
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = TiledMaps\\TiledMaps.csproj
-		SccProjectName1 = TiledMaps
-		SccLocalPath1 = TiledMaps
-		SccProjectUniqueName2 = TiledMapsTestHarness\\TiledMapsTestHarness.csproj
-		SccProjectName2 = TiledMapsTestHarness
-		SccLocalPath2 = TiledMapsTestHarness
-		SccProjectUniqueName3 = WMTiledMapsTestHarness\\WMTiledMapsTestHarness.csproj
-		SccProjectName3 = WMTiledMapsTestHarness
-		SccLocalPath3 = WMTiledMapsTestHarness
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
