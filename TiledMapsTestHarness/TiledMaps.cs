@@ -28,7 +28,7 @@ namespace TiledMapsTestHarness
             myGMGraphics = Graphics.FromImage(myGMBitmap);
 
             myGMSession.RefreshBitmap = myRenderer.LoadBitmap(Assembly.GetExecutingAssembly().GetManifestResourceStream("TiledMapsTestHarness.Refresh.png"));
-            myGMSession.SetSessions(new GoogleSatelliteSession(), new GoogleRoadsSession());
+            myGMSession.SetSessions(new VirtualEarthSatelliteSession(), new GoogleRoadsSession());
             // enable roads.
             myGMSession[1] = true;
 
@@ -53,7 +53,7 @@ namespace TiledMapsTestHarness
             RefreshGMBox(null, null);
         }
 
-        GoogleMapSession myVESession = new GoogleMapSession();
+        VirtualEarthMapSession myVESession = new VirtualEarthMapSession();
         CompositeMapSession myGMSession = new CompositeMapSession();
         Bitmap myVEBitmap;
         Graphics myVEGraphics;
