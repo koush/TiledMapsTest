@@ -1,1 +1,4 @@
 
+[submodule "TiledMaps"]
+	path = TiledMaps
+	url = git@github.com:koush/TiledMaps.git
